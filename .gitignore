@@ -1,0 +1,9 @@
+# Ignore .metadata folders
+.metadata/
+
+# Ignore IDE-specific files and system files
+*.log
+*.DS_Store
+.classpath
+.project
+.settings/
