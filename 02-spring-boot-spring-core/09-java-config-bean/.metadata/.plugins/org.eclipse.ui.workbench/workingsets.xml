@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725334801792_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725334801877_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725434587491_3" label="02-spring-boot-rest-curd" name="02-spring-boot-rest-curd">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-spring-boot-rest-curd" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725445924642_4" label="03-spring-boot-rest-curd-path_variable" name="03-spring-boot-rest-curd-path_variable">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-spring-boot-rest-curd-path_variable" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725449177926_5" label="04-spring-boot-rest-curd-exp-handling" name="04-spring-boot-rest-curd-exp-handling">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-spring-boot-rest-curd-exp-handling" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725542953179_6" label="05-spring-boot-rest-curd-global-exp-handling" name="05-spring-boot-rest-curd-global-exp-handling">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-spring-boot-rest-curd-global-exp-handling" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725873926553_7" label="30-spring-boot-rest-curd-employee-with-spring-data-jpa" name="30-spring-boot-rest-curd-employee-with-spring-data-jpa">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/30-spring-boot-rest-curd-employee-with-spring-data-jpa" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725877296623_8" label="40-spring-boot-rest-curd-employee-with-spring-data-rest" name="40-spring-boot-rest-curd-employee-with-spring-data-rest">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/40-spring-boot-rest-curd-employee-with-spring-data-rest" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725942669161_9" label="03-spring-boot-rest-security-restrict-access-based-on-roles" name="03-spring-boot-rest-security-restrict-access-based-on-roles">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-spring-boot-rest-security-restrict-access-based-on-roles" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725945756013_10" label="04-spring-boot-rest-security-jdbc-plain-text" name="04-spring-boot-rest-security-jdbc-plain-text">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-spring-boot-rest-security-jdbc-plain-text" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725951363427_11" label="05-spring-boot-rest-security-jdbc-bcrypt" name="05-spring-boot-rest-security-jdbc-bcrypt">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-spring-boot-rest-security-jdbc-bcrypt" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725952372283_12" label="06-spring-boot-rest-security-jdbc-bcrypt-custom-table-names" name="06-spring-boot-rest-security-jdbc-bcrypt-custom-table-names">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06-spring-boot-rest-security-jdbc-bcrypt-custom-table-names" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725334814489_2" label="Window Working Set" name="Aggregate for window 1725334814488"/>
+</workingSetManager>

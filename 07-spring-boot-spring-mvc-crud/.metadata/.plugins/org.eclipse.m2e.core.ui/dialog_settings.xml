@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc-crud\04-thymeleaf-demo-employees-delete"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc-crud\03-01-thymeleaf-demo-employees-update"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc-crud\02-thymeleaf-demo-employees-add"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc-crud\01-thymeleaf-demo-employees-list"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="02-thymeleaf-demo-employees-add"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

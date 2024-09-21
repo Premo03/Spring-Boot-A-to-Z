@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc-crud\00-spring-boot-spring-mvc-crud-starter-code"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\20-validationdemo-custom-validation-rule"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\19-validationdemo-handle-strings-for-integer-fields"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\18-validationdemo-make-integer-fields-required"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\17-validationdemo-regular-expressions"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\16-validationdemo-number-ranges"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\15-validationdemo-init-binder-trim"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\13-form-data-binding-checkboxes-read-from-props-file"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\12-form-data-binding-checkboxes-basic"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\11-form-data-binding-radio-buttons-read-from-props-file"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\10-form-data-binding-radio-buttons-basic"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\09-form-data-binding-dropdown-list-read-from-props-file"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\08-form-data-binding-dropdown-list-basic"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\07-form-data-binding-textfields"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\07-spring-boot-spring-mvc\06-getmapping-and-postmapping"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="20-validationdemo-custom-validation-rule"/>
+			<item value="19-validationdemo-handle-strings-for-integer-fields"/>
+			<item value="18-validationdemo-make-integer-fields-required"/>
+			<item value="17-validationdemo-regular-expressions"/>
+			<item value="16-validationdemo-number-ranges"/>
+			<item value="15-validationdemo-init-binder-trim"/>
+			<item value="13-form-data-binding-checkboxes-read-from-props-file"/>
+			<item value="12-form-data-binding-checkboxes-basic"/>
+			<item value="11-form-data-binding-radio-buttons-read-from-props-file"/>
+			<item value="10-form-data-binding-radio-buttons-basic"/>
+			<item value="09-form-data-binding-dropdown-list-read-from-props-file"/>
+			<item value="08-form-data-binding-dropdown-list-basic"/>
+			<item value="07-form-data-binding-textfields"/>
+			<item value="06-getmapping-and-postmapping"/>
+			<item value="05-binding-request-params"/>
+		</list>
+	</section>
+</section>

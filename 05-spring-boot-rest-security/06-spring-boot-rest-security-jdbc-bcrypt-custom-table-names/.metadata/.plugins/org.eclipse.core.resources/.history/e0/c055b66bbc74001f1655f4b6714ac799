@@ -1,0 +1,5 @@
+package com.premjeet.thymeleafdemo.mvc.validation;
+
+public @interface CourseCode {
+
+}

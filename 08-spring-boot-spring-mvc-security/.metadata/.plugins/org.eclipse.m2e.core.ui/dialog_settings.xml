@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\08-spring-boot-spring-mvc-security\05-spring-boot-spring-mvc-security-custom-login-form-with-bootstrap"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\08-spring-boot-spring-mvc-security\04-spring-boot-spring-mvc-security-custom-login-form-show-error-message"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\08-spring-boot-spring-mvc-security\03-spring-boot-spring-mvc-security-custom-login-form-plain"/>
+			<item value="E:\SpringBoot\workspace-spring-tool-suite-4-4.15.2.RELEASE\08-spring-boot-spring-mvc-security\02-spring-boot-spring-mvc-security-in-memory-users"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="05-spring-boot-spring-mvc-security-custom-login-form-with-bootstrap"/>
+			<item value="04-spring-boot-spring-mvc-security-custom-login-form-show-error-message"/>
+			<item value="03-spring-boot-spring-mvc-security-custom-login-form-plain"/>
+			<item value="02-spring-boot-spring-mvc-security-in-memory-users"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

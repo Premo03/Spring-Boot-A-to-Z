@@ -1,0 +1,5 @@
+package com.premjeet.thymeleafdemo.mvc;
+
+public class CustomerController {
+
+}

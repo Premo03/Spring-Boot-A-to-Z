@@ -1,0 +1,5 @@
+package com.premjeet.thymeleafdemo.model;
+
+public class Student {
+
+}

@@ -1,0 +1,8 @@
+package com.premjeet.thymeleafdemo.mvc.validation;
+
+import jakarta.validation.Constraint;
+
+@Constraint(validatedBy = CourseCodeConstraintValidator.class)
+public @interface CourseCode {
+
+}

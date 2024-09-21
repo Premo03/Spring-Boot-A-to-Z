@@ -1,0 +1,5 @@
+package com.premjeet.thymeleafdemo.controller;
+
+public class DemoController {
+
+}

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en" xmln:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Customer Registration Form</title>
+</head>
+<body>
+	<i>File out the form. Asterisk (*) means required</i>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:https://www.thymeleaf.org>
+<head>
+	<meta charset="UTF-8">
+	<title>Custom Login Page</title>
+</head>
+	<body>
+		<h3>lMy Customn Login Page</h3>
+		
+	</body>
+</html>

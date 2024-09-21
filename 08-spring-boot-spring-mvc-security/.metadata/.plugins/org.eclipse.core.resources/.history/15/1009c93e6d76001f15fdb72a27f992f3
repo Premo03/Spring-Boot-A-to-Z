@@ -1,0 +1,6 @@
+package com.premjeet.springboot.demosecurity.security;
+
+
+public class DemoSecurityConfig {
+
+}

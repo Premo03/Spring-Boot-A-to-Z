@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726028615700_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726028615734_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726138636047_3" label="02-thymeleafdemo-helloworld-css" name="02-thymeleafdemo-helloworld-css">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-thymeleafdemo-helloworld-css" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726140307828_4" label="03-reading-html-form-data" name="03-reading-html-form-data">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-reading-html-form-data" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726462253841_5" label="05-binding-request-params" name="05-binding-request-params">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-binding-request-params" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/17-validationdemo-regular-expressions" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726465055632_6" label="07-form-data-binding-textfields" name="07-form-data-binding-textfields">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07-form-data-binding-textfields" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726470494928_7" label="08-form-data-binding-dropdown-list-basic" name="08-form-data-binding-dropdown-list-basic">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08-form-data-binding-dropdown-list-basic" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726471169327_8" label="09-form-data-binding-dropdown-list-read-from-props-file" name="09-form-data-binding-dropdown-list-read-from-props-file">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/09-form-data-binding-dropdown-list-read-from-props-file" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726479502113_9" label="10-form-data-binding-radio-buttons-basic" name="10-form-data-binding-radio-buttons-basic">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/10-form-data-binding-radio-buttons-basic" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726480472716_10" label="11-form-data-binding-radio-buttons-read-from-props-file" name="11-form-data-binding-radio-buttons-read-from-props-file">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/11-form-data-binding-radio-buttons-read-from-props-file" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726481232256_11" label="12-form-data-binding-checkboxes-basic" name="12-form-data-binding-checkboxes-basic">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/12-form-data-binding-checkboxes-basic" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726483275483_12" label="13-form-data-binding-checkboxes-read-from-props-file" name="13-form-data-binding-checkboxes-read-from-props-file">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/13-form-data-binding-checkboxes-read-from-props-file" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726488143223_13" label="15-validationdemo-init-binder-trim" name="15-validationdemo-init-binder-trim">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/15-validationdemo-init-binder-trim" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726546037588_14" label="16-validationdemo-number-ranges" name="16-validationdemo-number-ranges">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/16-validationdemo-number-ranges" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726550750751_15" label="18-validationdemo-make-integer-fields-required" name="18-validationdemo-make-integer-fields-required">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/18-validationdemo-make-integer-fields-required" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726551471449_16" label="19-validationdemo-handle-strings-for-integer-fields" name="19-validationdemo-handle-strings-for-integer-fields">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/19-validationdemo-handle-strings-for-integer-fields" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726553642731_17" label="20-validationdemo-custom-validation-rule" name="20-validationdemo-custom-validation-rule">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/20-validationdemo-custom-validation-rule" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726028619990_2" label="Window Working Set" name="Aggregate for window 1726028619990"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1726565488806_18" label="Multiple Working Sets" name="Aggregate:02-thymeleafdemo-helloworld-css:03-reading-html-form-data:05-binding-request-params:07-form-data-binding-textfields:08-form-data-binding-dropdown-list-basic:09-form-data-binding-dropdown-list-read-from-props-file:10-form-data-binding-radio-buttons-basic:11-form-data-binding-radio-buttons-read-from-props-file:12-form-data-binding-checkboxes-basic:13-form-data-binding-checkboxes-read-from-props-file:15-validationdemo-init-binder-trim:16-validationdemo-number-ranges:18-validationdemo-make-integer-fields-required:19-validationdemo-handle-strings-for-integer-fields:20-validationdemo-custom-validation-rule:">
+<workingSet IMemento.internal.id="02-thymeleafdemo-helloworld-css"/>
+<workingSet IMemento.internal.id="03-reading-html-form-data"/>
+<workingSet IMemento.internal.id="05-binding-request-params"/>
+<workingSet IMemento.internal.id="07-form-data-binding-textfields"/>
+<workingSet IMemento.internal.id="08-form-data-binding-dropdown-list-basic"/>
+<workingSet IMemento.internal.id="09-form-data-binding-dropdown-list-read-from-props-file"/>
+<workingSet IMemento.internal.id="10-form-data-binding-radio-buttons-basic"/>
+<workingSet IMemento.internal.id="11-form-data-binding-radio-buttons-read-from-props-file"/>
+<workingSet IMemento.internal.id="12-form-data-binding-checkboxes-basic"/>
+<workingSet IMemento.internal.id="13-form-data-binding-checkboxes-read-from-props-file"/>
+<workingSet IMemento.internal.id="15-validationdemo-init-binder-trim"/>
+<workingSet IMemento.internal.id="16-validationdemo-number-ranges"/>
+<workingSet IMemento.internal.id="18-validationdemo-make-integer-fields-required"/>
+<workingSet IMemento.internal.id="19-validationdemo-handle-strings-for-integer-fields"/>
+<workingSet IMemento.internal.id="20-validationdemo-custom-validation-rule"/>
+</workingSet>
+</workingSetManager>
