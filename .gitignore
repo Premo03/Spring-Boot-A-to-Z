@@ -1,5 +1,5 @@
 # Ignore .metadata folders
-.metadata/
+ .metadata/
 
 # Ignore IDE-specific files and system files
 *.log
