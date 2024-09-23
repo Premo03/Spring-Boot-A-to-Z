@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725003008813_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725003008843_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725020976284_3" label="02-constructor-scanning" name="02-constructor-scanning">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-constructor-scanning" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725080710246_4" label="04-qualifiers" name="04-qualifiers">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-qualifiers" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725085360672_5" label="06-lazy-initialization" name="06-lazy-initialization">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06-lazy-initialization" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725087169194_6" label="07-bean-scopes" name="07-bean-scopes">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07-bean-scopes" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725088470018_7" label="08-bean-lifecycle-methods" name="08-bean-lifecycle-methods">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08-bean-lifecycle-methods" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725107263989_8" label="09-java-config-bean" name="09-java-config-bean">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/09-java-config-bean" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1725003014278_2" label="Window Working Set" name="Aggregate for window 1725003014278"/>
+</workingSetManager>
